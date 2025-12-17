@@ -1,6 +1,5 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/13Hgw4XvnZcchW/giphy.gif" width="200" />
 
   # Hi there, I'm an Intern Dev! 👋
   
@@ -71,5 +70,5 @@
 ---
 
 <div align="center">
-  <small>Designed with ❤️ by Antigravity</small>
+  <small></small>
 </div>
